@@ -1,3 +1,6 @@
+'use strict';
+
+Object.defineProperty(exports, "__esModule", { value: true });
 const express = require('express');
 
 // Constants
@@ -7,7 +10,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Hello to you\n');
+  res.send('Hello Ryan\n');
 });
 
 app.listen(PORT, HOST);
