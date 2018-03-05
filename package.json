@@ -1,0 +1,14 @@
+{
+  "name": "yellowhouse-web-docker",
+  "description": "docker version of yellowhouse-web",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "license": "ISC",
+  "private": true
+}
