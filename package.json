@@ -10,5 +10,8 @@
     "express": "^4.16.1"
   },
   "license": "ISC",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^9.4.6"
+  }
 }
