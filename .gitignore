@@ -1,5 +1,2 @@
 node_modules
-web/node_modules
-web/public/js/thirdparty
-**/*.js
-**/*.js.map
+public/js/thirdparty
